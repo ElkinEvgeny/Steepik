@@ -3,5 +3,5 @@
 В данных: submission_data_test.csv, events_data_test.csv хранится информация о решениях и действиях для 6184 студентов за первые два дня прохождения курса. 
 Это 6184 студентов, которые проходили курс в период с мая 2018 по январь 2019. Подробное описание переменных смотри в этом шаге.  
 Используя данные о первых двух днях активности на курсе  нужно предсказать, наберет ли пользователь более 40 баллов на курсе или нет.
-При использовании модели RandomForestClassifier+featuretools+GenericUnivariateSelect roc_auc составил 0,7986)
+При использовании модели RandomForestClassifier+featuretools+GenericUnivariateSelect метрика roc_auc_score составила 0,7986)
 ![изображение](https://github.com/ElkinEvgeny/Steepik_ML_contest/assets/117668820/1ce95f34-dfd9-4683-845b-6f118e308711)
